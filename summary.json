@@ -1,0 +1,15 @@
+{
+  "Patient_Name": "Ms. Jones",
+  "Symptoms": [
+    "neck pain",
+    "back pain",
+    "occasional backaches"
+  ],
+  "Diagnosis": "Whiplash injury",
+  "Treatment": [
+    "Physiotherapy",
+    "Painkillers"
+  ],
+  "Current_Status": "Recovering well, occasional backaches, full range of movement in neck and back",
+  "Prognosis": "Full recovery expected within six months of the accident, no long-term impact anticipated"
+}
